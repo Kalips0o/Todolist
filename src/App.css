@@ -1,3 +1,4 @@
+/*
 .App {
   padding: 30px;
   display: flex;
@@ -5,10 +6,6 @@
 
 .App > div {
   margin-right: 50px;
-}
-body {
-  height: 800px;
-  background: linear-gradient(to top left, powderblue, pink);
 }
 
 .error {
@@ -18,9 +15,12 @@ body {
 .error-message {
   color: red;
 }
+
 .active-filter {
-  background-color:  deeppink;
+  background-color: aquamarine;
 }
+
 .is-done {
   opacity: 0.5;
 }
+*/
